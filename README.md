@@ -17,4 +17,5 @@
 ## SmartInterview - smart designer
 
 #### notes
-  https://smart-design-introduction.notion.site/Session-notes-code-snippets-28ef6e92d8fd4bbfbf94d596909eff80
+  SOLID - https://smart-design-introduction.notion.site/Introduction-2f387f1f55df4088b6041de7a365869a
+  Patterns/HLD - https://smart-design-introduction.notion.site/Session-notes-code-snippets-28ef6e92d8fd4bbfbf94d596909eff80
